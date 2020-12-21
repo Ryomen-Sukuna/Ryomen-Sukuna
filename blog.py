@@ -1,7 +1,7 @@
 from feedparser import parse
 
 feed = parse("https://blog.mannu.me/rss/").entries
-latest = [f"""- [{feed[i].title}]({feed[i].link})  \n{feed[i].description} - {feed[i].published}"""for i in range(3)]
+latest = [f"""[📝 {feed[i].title}]({feed[i].link})  \n{feed[i].description} - {feed[i].published}\n\n---------------------"""for i in range(3)]
 farr = []
 with open("README.md", "r", encoding='utf8') as x:
     for line in x:
