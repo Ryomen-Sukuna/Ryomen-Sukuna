@@ -40,18 +40,18 @@
 
 ![Telegram Badge](https://img.shields.io/badge/-DeprecatedUser-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DeprecatedUser)
 ![Gmail Badge](https://img.shields.io/badge/-aman_a@aol.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman_a@aol.com)
-![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40DeprecatedChat&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DDeprecatedChat&longCache=true%22)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40DeprecatedChat&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DDeprecatedChat&longCache=true%22)](https://t.me/DeprecatedChat)
 -------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-##  <img src="https://i.imgur.com/fxf0mtr.gif" width="33px"> **Currently Playing**
+##  🎶 **Currently Playing**
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://www.last.fm/user/AmaanAhmed)
 -------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  🐙 **Github Stats**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=pokurt&show_icons=true&theme=radical)
+[![github stats](https://github-readme-stats.vercel.app/api?username=pokurt&show_icons=true&theme=radical)](https://github.com/pokurt)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
