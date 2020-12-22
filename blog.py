@@ -1,4 +1,5 @@
 from feedparser import parse
+from html2markdown import convert
 
 url = "https://blog.mannu.me/rss/"
 
@@ -19,7 +20,7 @@ def func(url):
     with open("README.md", "w", encoding="utf8") as x:
         x.writelines(farr)
         x.write("<!--bp-->\n\n")
-        _ = [x.write(i + "\n\n") for i in latest]
+        _ = [x.write(convert(i) + "\n\n") for i in latest]
 
 
 if __name__ == "__main__":

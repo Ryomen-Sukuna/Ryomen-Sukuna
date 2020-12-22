@@ -59,22 +59,59 @@
 ![Keybase PGP](https://img.shields.io/keybase/pgp/pokurt?color=aqua&style=for-the-badge)
 
 
+## 🌐 **Top Languages**
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokurt&show_icons=true&theme=radical&layout=compact)](https://github.com/pokurt)
+
+
+## 🕒 **Wakatime Stats**
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📘 **My Latest Blog Posts:**
 <!--bp-->
 
 [📝 Why I left Social Life...](https://blog.mannu.me/why-i-left-social-media/)  
-<p>There is nothing much I can talk about this topic. Most of the reason why I left Facebook, Twitter, Instagram and Viber is because of my life events.</p><!--kg-card-begin: markdown--><p>Maybe this Life is not for me, or not used to be with people that much. Everywhere I look or go to,</p> - Thu, 29 Oct 2020 17:27:50 GMT
+
+There is nothing much I can talk about this topic. Most of the reason why I left Facebook, Twitter, Instagram and Viber is because of my life events.
+
+<!--kg-card-begin: markdown-->
+
+Maybe this Life is not for me, or not used to be with people that much. Everywhere I look or go to,
+
+ - Thu, 29 Oct 2020 17:27:50 GMT
 
 ---------------------
 
 [📝 Telegram Instant View](https://blog.mannu.me/telegram-instantview/)  
-<p>My personal thoughts on Telegram's Instant View</p><h3 id="introduction">Introduction</h3><p>Telegram's Instant View allows users to read articles from Internet with zero loading time. When you get a link to an article via Telegram that supports Instant View, simply tap the <strong><strong>Instant View</strong></strong> button, and the page will open instantly and read</p> - Mon, 28 Sep 2020 07:12:32 GMT
+
+My personal thoughts on Telegram's Instant View
+
+<h3 id="introduction">Introduction</h3>
+
+Telegram's Instant View allows users to read articles from Internet with zero loading time. When you get a link to an article via Telegram that supports Instant View, simply tap the ____Instant View____ button, and the page will open instantly and read
+
+ - Mon, 28 Sep 2020 07:12:32 GMT
 
 ---------------------
 
 [📝 Welcome to my Personal Blog](https://blog.mannu.me/welcome/)  
-<p>Here I will be posting about what I learn and things I know based on my Knowledge</p><!--kg-card-begin: markdown--><p>Hi, My name is Aman, mostly known as Poki. A Python and PHP Enthusiast interested in learning about new things.</p>
-<!--kg-card-end: markdown--><h3 id="social-life">Social Life</h3><!--kg-card-begin: markdown--><p>The only Social platform I use is Telegram. I used to</p> - Sun, 27 Sep 2020 20:25:13 GMT
+
+Here I will be posting about what I learn and things I know based on my Knowledge
+
+<!--kg-card-begin: markdown-->
+
+Hi, My name is Aman, mostly known as Poki. A Python and PHP Enthusiast interested in learning about new things.
+
+<!--kg-card-end: markdown-->
+
+<h3 id="social-life">Social Life</h3>
+
+<!--kg-card-begin: markdown-->
+
+The only Social platform I use is Telegram. I used to
+
+ - Sun, 27 Sep 2020 20:25:13 GMT
 
 ---------------------
 
