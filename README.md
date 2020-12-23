@@ -18,6 +18,7 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)
 [![Go](https://img.shields.io/badge/-Go-%232c3e50?style=flat-square&logo=go)](https://golang.org)
+[![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=flat-square&logo=rust)](https://rust-lang.org)
 
 
 **My Tech Stack I use Everyday:**
@@ -27,10 +28,11 @@
 [![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=typescript)](https://termux.com)
 [![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=flat-square&logo=vim)](https://vim.org)
 [![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)](https://www.docker.com/)
+
 [![Android Studio](https://img.shields.io/badge/-Studio-%232c3e50?style=flat-square&logo=android-studio)](https://developer.android.com/studio)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=postgresql)](https://postgresql.org)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)
-[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-white?style=flat-square&logo=digitalocean)](https://m.do.co/c/ed752d686dc7)
+[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=flat-square&logo=digitalocean)](https://m.do.co/c/ed752d686dc7)
 
 
 **Hobbies :**
@@ -66,6 +68,11 @@
 
 ## 🕒 **Wakatime Stats**
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 💰 **Donations**
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#525252', 'C1C230RZS');kofiwidget2.draw();</script> 
 
 
 ## 📘 **My Latest Blog Posts:**
