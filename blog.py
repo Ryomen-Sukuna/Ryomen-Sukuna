@@ -1,7 +1,7 @@
 from feedparser import parse
 from html2markdown import convert
 
-url = "https://blog.mannu.me/rss/"
+url = "https://blog.pokurt.me/rss/"
 
 
 def func(url):

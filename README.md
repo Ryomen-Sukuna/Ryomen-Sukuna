@@ -2,6 +2,7 @@
 
 
 - **SysAdmin and the Backend Developer of [Qani.store](https://qani.store)**
+- **a Blogger, read my blog here -> [pokurt.me](https://blog.pokurt.me)**
 - **I put mostly of my focus on Python and Nim**
 - **My Everyday usage is based on: `.py` `.nim` `.sh`**
 
@@ -78,7 +79,7 @@
 ## 📘 **My Latest Blog Posts:**
 <!--bp-->
 
-[📝 Why I left Social Life...](https://blog.mannu.me/why-i-left-social-media/)  
+[📝 Why I left Social Life...](https://blog.pokurt.me/why-i-left-social-media/)  
 
 There is nothing much I can talk about this topic. Most of the reason why I left Facebook, Twitter, Instagram and Viber is because of my life events.
 
@@ -90,7 +91,7 @@ Maybe this Life is not for me, or not used to be with people that much. Everywhe
 
 ---------------------
 
-[📝 Telegram Instant View](https://blog.mannu.me/telegram-instantview/)  
+[📝 Telegram Instant View](https://blog.pokurt.me/telegram-instantview/)  
 
 My personal thoughts on Telegram's Instant View
 
@@ -102,7 +103,7 @@ Telegram's Instant View allows users to read articles from Internet with zero lo
 
 ---------------------
 
-[📝 Welcome to my Personal Blog](https://blog.mannu.me/welcome/)  
+[📝 Welcome to my Personal Blog](https://blog.pokurt.me/welcome/)  
 
 Here I will be posting about what I learn and things I know based on my Knowledge
 
