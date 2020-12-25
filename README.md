@@ -81,7 +81,7 @@
 
 - **Support me by Signing up on DigitalOcean with my Referral Link:**
 
-    <a href='https://m.do.co/c/ed752d686dc7' target='_blank'><img height='15' style='border:0px;height:26px;' src='https://brandslogos.com/wp-content/uploads/images/large/digitalocean-logo-1.png' border='0' alt='Signup at digitalocean with my link' /></a>
+    **Referral Link:** https://m.do.co/c/ed752d686dc7
 
 
 ## 📘 **My Latest Blog Posts:**
