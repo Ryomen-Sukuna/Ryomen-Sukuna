@@ -3,7 +3,9 @@
 
 - **SysAdmin and the Backend Developer of [Qani.store](https://qani.store)**
 - **a Blogger, read my blog here -> [pokurt.me](https://blog.pokurt.me)**
-- **I put mostly of my focus on Python and Nim**
+- **🐋 [DigitalOcean](https://digitalocean.com) Power User 💪**
+- **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Nim](https://nim-lang.org) Lover 💖**
+- **I put mostly of my focus on [Python](https://python.org) and [Nim](https://nim-lang.org)**
 - **My Everyday usage is based on: `.py` `.nim` `.sh`**
 
 ## 👦 **About me**:
@@ -33,7 +35,7 @@
 [![Android Studio](https://img.shields.io/badge/-Studio-%232c3e50?style=flat-square&logo=android-studio)](https://developer.android.com/studio)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=postgresql)](https://postgresql.org)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)
-[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=flat-square&logo=digitalocean)](https://m.do.co/c/ed752d686dc7)
+[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=flat-square&logo=digitalocean)](https://digitalocean.com)
 
 
 **Hobbies :**
@@ -71,9 +73,15 @@
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 💰 **Donations**
+## 💰 **Donations & Support**
 
-<a href='https://ko-fi.com/pokurt' target='_blank'><img height='45' style='border:0px;height:56px;' src='https://media.giphy.com/media/jp92jmyPqZeHheeIN6/giphy.gif' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+- **Buy me a Ko-fi:**
+
+    <a href='https://ko-fi.com/pokurt' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+- **Support me by Signing up on DigitalOcean with my Referal Link:**
+
+    <a href='https://m.do.co/c/ed752d686dc7' target='_blank'><img height='15' style='border:0px;height:26px;' src='https://brandslogos.com/wp-content/uploads/thumbs/digitalocean-logo-vector-1.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 ## 📘 **My Latest Blog Posts:**
