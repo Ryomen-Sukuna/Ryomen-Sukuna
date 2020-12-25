@@ -79,9 +79,9 @@
 
     <a href='https://ko-fi.com/pokurt' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-- **Support me by Signing up on DigitalOcean with my Referal Link:**
+- **Support me by Signing up on DigitalOcean with my Referral Link:**
 
-    <a href='https://m.do.co/c/ed752d686dc7' target='_blank'><img height='15' style='border:0px;height:26px;' src='https://brandslogos.com/wp-content/uploads/thumbs/digitalocean-logo-vector-1.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://m.do.co/c/ed752d686dc7' target='_blank'><img height='15' style='border:0px;height:26px;' src='https://brandslogos.com/wp-content/uploads/images/large/digitalocean-logo-1.png' border='0' alt='Signup at digitalocean with my link' /></a>
 
 
 ## 📘 **My Latest Blog Posts:**
