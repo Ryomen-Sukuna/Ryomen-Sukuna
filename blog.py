@@ -20,7 +20,7 @@ def func(url):
     with open("README.md", "w", encoding="utf8") as x:
         x.writelines(farr)
         x.write("<!--bp-->\n\n")
-        _ = [x.write(convert(i) + "\n\n") for i in latest]
+        [x.write(convert(i) + "\n\n") for i in latest]
 
 
 if __name__ == "__main__":

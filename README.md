@@ -7,6 +7,7 @@
 - **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Nim](https://nim-lang.org) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org) and [Nim](https://nim-lang.org)**
 - **My Everyday usage is based on: `.py` `.nim` `.sh`**
+- **And not to mention I am a huge weeb ~**
 
 ## 👦 **About me**:
 
@@ -47,7 +48,7 @@
 **Contact Me:**
 
 ![Telegram Badge](https://img.shields.io/badge/-DeprecatedUser-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DeprecatedUser)
-![Gmail Badge](https://img.shields.io/badge/-aman_a@aol.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman_a@aol.com)
+![Gmail Badge](https://img.shields.io/badge/-poki@pokurt.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poki@pokurt.me)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40DeprecatedChat&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DDeprecatedChat&longCache=true%22)](https://t.me/DeprecatedChat)
 
 
@@ -82,6 +83,22 @@
 - **Support me by Signing up on DigitalOcean with my Referral Link:**
 
     **Referral Link:** https://m.do.co/c/ed752d686dc7
+
+
+
+## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
+<!-- anilist_start-->
+ - [Shingeki no Kyojin](https://anilist.co/anime/16498)
+ - [One Punch Man](https://anilist.co/anime/21087)
+ - [One Punch Man 2](https://anilist.co/anime/97668)
+ - [One Punch Man OVA](https://anilist.co/anime/21416)
+ - [Re:Zero kara Hajimeru Isekai Seikatsu](https://anilist.co/anime/21355)
+ - [Dr. STONE](https://anilist.co/anime/105333)
+ - [Yakusoku no Neverland](https://anilist.co/anime/101759)
+ - [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
+ - [Aldnoah.Zero 2](https://anilist.co/anime/20853)
+ - [Aldnoah.Zero](https://anilist.co/anime/20632)
+<!-- anilist_end-->
 
 
 ## 📘 **My Latest Blog Posts:**
@@ -130,4 +147,3 @@ The only Social platform I use is Telegram. I used to
  - Sun, 27 Sep 2020 20:25:13 GMT
 
 ---------------------
-
