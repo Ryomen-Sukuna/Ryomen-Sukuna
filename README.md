@@ -53,7 +53,7 @@
 
 
 ##  🎶 **Currently Playing**
-[![Spotify](https://spotify-pokurt.vercel.app/api/spotify)](https://www.last.fm/user/AmaanAhmed)
+[![Spotify](https://spotify-pokurt.vercel.app/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
 
 
 ##  🐙 **Github Stats**
