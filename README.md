@@ -53,7 +53,7 @@
 
 
 ##  🎶 **Currently Playing**
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://www.last.fm/user/AmaanAhmed)
+[![Spotify](https://spotify-pokurt.vercel.app/api/spotify)](https://www.last.fm/user/AmaanAhmed)
 
 
 ##  🐙 **Github Stats**
@@ -98,11 +98,25 @@
  - [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
  - [Aldnoah.Zero 2](https://anilist.co/anime/20853)
  - [Aldnoah.Zero](https://anilist.co/anime/20632)
+ - [Happy Sugar Life](https://anilist.co/anime/101351)
+ - [Elfen Lied](https://anilist.co/anime/226)
+ - [Fate/stay night: Unlimited Blade Works](https://anilist.co/anime/19603)
+ - [Fate/stay night: Unlimited Blade Works 2nd Season](https://anilist.co/anime/20792)
+ - [Fate/stay night](https://anilist.co/anime/356)
+ - [Fate/stay night [Heaven's Feel] I. presage flower](https://anilist.co/anime/20791)
 <!-- anilist_end-->
 
 
 ## 📘 **My Latest Blog Posts:**
 <!--bp-->
+
+[📝 Programming is stupid](https://blog.pokurt.me/programming-is-stupid/)  
+
+Before you move away, just think about it. For example you write a code that simply prints out `` Hello World `` and nothing else but you are stuck with that same code in your entire life, and then when you move forward to do something better but you are welcomed with
+
+ - Tue, 23 Mar 2021 00:42:44 GMT
+
+---------------------
 
 [📝 Why I left Social Life...](https://blog.pokurt.me/why-i-left-social-media/)  
 
@@ -128,22 +142,3 @@ Telegram's Instant View allows users to read articles from Internet with zero lo
 
 ---------------------
 
-[📝 Welcome to my Personal Blog](https://blog.pokurt.me/welcome/)  
-
-Here I will be posting about what I learn and things I know based on my Knowledge
-
-<!--kg-card-begin: markdown-->
-
-Hi, My name is Aman, mostly known as Poki. A Python and PHP Enthusiast interested in learning about new things.
-
-<!--kg-card-end: markdown-->
-
-<h3 id="social-life">Social Life</h3>
-
-<!--kg-card-begin: markdown-->
-
-The only Social platform I use is Telegram. I used to
-
- - Sun, 27 Sep 2020 20:25:13 GMT
-
----------------------
