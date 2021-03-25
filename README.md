@@ -47,13 +47,13 @@
 
 **Contact Me:**
 
-![Telegram Badge](https://img.shields.io/badge/-DeprecatedUser-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DeprecatedUser)
+![Telegram Badge](https://img.shields.io/badge/-CustomIcon-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/CustomIcon)
 ![Gmail Badge](https://img.shields.io/badge/-poki@pokurt.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poki@pokurt.me)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40DeprecatedChat&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DDeprecatedChat&longCache=true%22)](https://t.me/DeprecatedChat)
 
 
 ##  🎶 **Currently Playing**
-[![Spotify](https://spotify-pokurt.vercel.app/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
+[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
 
 
 ##  🐙 **Github Stats**
