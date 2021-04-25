@@ -1,7 +1,8 @@
 
-import aiohttp
+import httpx
 import re
-import asyncio
+import trio
+import ujson
 
 query = """
 query($query: String){
@@ -21,33 +22,43 @@ query($query: String){
 """
 
 
+async def array(username: str) -> str:
+    async with httpx.AsyncClient() as ses:
+        return (
+            (
+                await ses.post(
+                    url='https://graphql.anilist.co',
+                    data=ujson.dumps(
+                        {
+                            'query': query,
+                            'variables': {
+                                "query": username
+                            }
+                        }
+                    ),
+                    headers={
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json',
+                    },
+                )
+            ).json()
+        )['data']['User']['favourites']['anime']['nodes']
 
 
-async def main(username: str):
-    async with aiohttp.ClientSession() as ses:
-        async with ses.post(
-            'https://graphql.anilist.co',
-            json={
-                'query': query,
-                'variables': {"query": username}
-            }
-        ) as resp:
-            r = (
-                await resp.json()
-            )['data']['User']['favourites']['anime']['nodes']
-        await ses.close()
+async def main(username: str) -> str:
+    r =  await array(username)
     new = '<!-- anilist_start-->\n'
     for x in r:
         new += ' • <a href="{}">{}<a><br>\n'.format(x['siteUrl'], x['title']['romaji'])
     new += "<!-- anilist_end-->"
-    with open("README.md", "r", encoding="utf8") as x:
+    async with await trio.open_file("README.md", "r", encoding="utf8") as x:
         text = re.compile(
             "<!-- anilist_start-->.*<!-- anilist_end-->",
             re.DOTALL
-        ).sub(new, x.read())
-    with open("README.md", "w", encoding="utf8") as x:
-        x.write(text)
+        ).sub(new, await x.read())
+    async with await trio.open_file("README.md", "w", encoding="utf8") as x:
+        await x.write(text)
 
 
 if __name__ == "__main__":
-    asyncio.run(main('pokurt'))
+    trio.run(main, 'pokurt')
