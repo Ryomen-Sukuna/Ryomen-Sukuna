@@ -23,13 +23,13 @@ query($query: String){
 
 
 
-async def main():
+async def main(username: str):
     async with aiohttp.ClientSession() as ses:
         async with ses.post(
             'https://graphql.anilist.co',
             json={
                 'query': query,
-                'variables': {"query": 'pokurt'}
+                'variables': {"query": username}
             }
         ) as resp:
             r = (
@@ -38,7 +38,7 @@ async def main():
         await ses.close()
     new = '<!-- anilist_start-->\n'
     for x in r:
-        new += f" - [{x['title']['romaji']}]({x['siteUrl']})\n"
+        new += ' • <a href="{}">{}<a><br>\n'.format(x['siteUrl'], x['title']['romaji'])
     new += "<!-- anilist_end-->"
     with open("README.md", "r", encoding="utf8") as x:
         text = re.compile(
@@ -50,4 +50,4 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    asyncio.run(main('pokurt'))
