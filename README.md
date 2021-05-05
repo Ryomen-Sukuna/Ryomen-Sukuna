@@ -7,7 +7,6 @@
 - **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Nim](https://nim-lang.org) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org) and [Nim](https://nim-lang.org)**
 - **My Everyday usage is based on: `.py` `.nim` `.sh`**
-- **And not to mention I am a huge weeb ~**
 
 ## 👦 **About me**:
 
