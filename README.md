@@ -11,7 +11,6 @@
 **Languages I currently know :**
 
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
-[![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=flat-square&logo=php)](https://php.net)
 [![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat-square&logo=php)](https://whatwg.org)
 
 **Languages I am Learning :**
