@@ -53,7 +53,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
-![Keybase PGP](https://img.shields.io/keybase/pgp/Ryomen-Sukuna?color=aqua&style=for-the-badge)
 
 
 ## 🌐 **Top Languages**
