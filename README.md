@@ -58,7 +58,7 @@
 
 ## 🌐 **Top Languages**
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZERO&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryomen-Sukuna&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
 
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
