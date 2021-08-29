@@ -1,5 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa ZERO desu ~  | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
-
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** I'm ZERO ~  | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
 - **🔥 [Pyrogram](https://pyrogram.org) & 🔥 [Telethon](https://github.com/LonamiWebs/Telethon) Lover 💖**
@@ -15,9 +14,7 @@
 
 **Languages I am Learning :**
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)
 [![Go](https://img.shields.io/badge/-Go-%232c3e50?style=flat-square&logo=go)](https://golang.org)
-
 
 **My Tech Stack I use Everyday:**
 
@@ -27,21 +24,12 @@
 
 [![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=postgresql)](https://postgresql.org)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)
-[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-grey?style=flat-square&logo=digitalocean)](https://digitalocean.com)
-
-
-**Hobbies :**
-
-[![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)
-[![PhotoShop](https://img.shields.io/badge/-PhotoShop-%23007ACC?style=flat-square&logo=Adobe)](https://www.adobe.com/products/photoshop.html)
-
 
 **Contact Me:**
 
 ![Telegram Badge](https://img.shields.io/badge/-ZERO-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Anomaliii)
 ![Gmail Badge](https://img.shields.io/badge/-ryomensukuna83@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ryomensukuna83@gmail.com)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40RandomAnimeIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Random&longCache=true%22)](https://t.me/Grup_Anime_Random)
-
 
 ##  🐙 **Github Stats**
 
@@ -50,11 +38,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
 
-
 ## 🌐 **Top Languages**
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryomen-Sukuna&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
-
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
