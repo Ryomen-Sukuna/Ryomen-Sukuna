@@ -46,7 +46,7 @@
 <br>
 <h2 align="center">📈 My Github Stats! </h2>
 <p align="center">
-    <a href="https://github.com/Ryomen-Sukuna"><img src="https://metrics.lecoq.io/1danish-00?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta">
+    <a href="https://github.com/Ryomen-Sukuna"><img src="https://metrics.lecoq.io/Ryomen-Sukuna?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta">
 </p>
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
@@ -54,7 +54,7 @@
 <!-- anilist_start-->
  • <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a><br>
  • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
- • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>
+ • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>2
  • <a href="https://anilist.co/anime/21416">One Punch Man OVA<a><br>
  • <a href="https://anilist.co/anime/21355">Re:Zero kara Hajimeru Isekai Seikatsu<a><br>
  • <a href="https://anilist.co/anime/105333">Dr. STONE<a><br>
