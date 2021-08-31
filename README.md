@@ -42,6 +42,13 @@
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryomen-Sukuna&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
 
+</p>
+<br>
+<h2 align="center">📈 My Github Stats! </h2>
+<p align="center">
+    <a href="https://github.com/Ryomen-Sukuna"><img src="https://metrics.lecoq.io/1danish-00?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta">
+</p>
+
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
 <!-- anilist_start-->
