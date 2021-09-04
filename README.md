@@ -33,14 +33,14 @@
 
 ##  🐙 **Github Stats**
 
-[![github stats]("https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna&count_private=true&include_all_commits=true&theme=algolia&show_icons=true)](https://github.com/Ryomen-Sukuna)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna&show_icons=true&theme=radical)](https://github.com/Ryomen-Sukuna)
 
 ![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
     
 ## 🌐 **Top Languages**
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryomen-Sukuna&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryomen-Sukuna&count_private=true&include_all_commits=true&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
