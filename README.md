@@ -33,14 +33,11 @@
 
 ##  🐙 **Github Stats**
 
+[![github stats]("https://github-readme-stats.vercel.app/api/top-langs?username=Ryomen-Sukuna&show_icons=true&theme=radical)(https://github.com/pokurt)
+
 ![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
-
-<p align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryomen-Sukuna&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ZERO" />
-    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="ZERO"/>
-</p>
-
+    
 ## 🌐 **Top Languages**
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryomen-Sukuna&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
