@@ -33,7 +33,8 @@
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna&count_private=true&include_all_commits=true&theme=radical&show_icons=true)](https://github.com/Ryomen-Sukuna)
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="ZERO"/>
+</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
