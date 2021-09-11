@@ -47,7 +47,7 @@
 <!-- anilist_start-->
  • <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a><br>
  • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
- • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>2
+ • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>
  • <a href="https://anilist.co/anime/21416">One Punch Man OVA<a><br>
  • <a href="https://anilist.co/anime/21355">Re:Zero kara Hajimeru Isekai Seikatsu<a><br>
  • <a href="https://anilist.co/anime/105333">Dr. STONE<a><br>
