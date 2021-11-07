@@ -19,7 +19,7 @@
 **My Tech Stack I use Everyday:**
 
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[!PyCharm](https://img.shields.io/badge/-PyCharm-%23007ACC?style=flat-square&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
 [![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=typescript)](https://termux.com)
 [![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)](https://www.docker.com/)
