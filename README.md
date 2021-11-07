@@ -42,7 +42,7 @@
 
 
 ## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ryomen-Sukuna&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ZERO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna)](https://github.com/anuraghazra/github-readme-stats)
     
 ## 🌐 **Top Languages**
 
