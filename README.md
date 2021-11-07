@@ -38,7 +38,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
-![Keybase PGP](https://img.shields.io/keybase/pgp/pokurt?color=aqua&style=for-the-badge)
+![Keybase PGP](https://img.shields.io/keybase/pgp/Ryomen-Sukuna?color=radical&style=for-the-badge)
 
 
 ## 🕒 **Wakatime Stats**
