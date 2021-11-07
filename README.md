@@ -19,7 +19,7 @@
 **My Tech Stack I use Everyday:**
 
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the badge&logo=pycharm&logoColor=black&color=black&labelColor=green)(https://www.jetbrains.com/pycharm/)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
 [![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=typescript)](https://termux.com)
 [![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)](https://www.docker.com/)
@@ -40,10 +40,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/RyomenSukuna?color=radical&style=for-the-badge)
-
-
-## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ryomen-Sukuna&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
     
 ## 🌐 **Top Languages**
