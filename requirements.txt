@@ -16,7 +16,7 @@ idna==3.1
 multidict==5.1.0
 numpy==1.20.1
 outcome==1.1.0
-pycparser==2.20
+pycparser==2.21
 pydub==0.24.1
 rfc3986==1.4.0
 sgmllib3k==1.0.0
