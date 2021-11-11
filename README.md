@@ -46,7 +46,7 @@
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryomen-Sukuna&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
 
 ## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ryomen-Sukuna&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=RyomenSukuna&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
@@ -69,3 +69,9 @@
  • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
 <!-- anilist_end-->
 </details>
+
+
+## **What languages you use and how much do you code?**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
