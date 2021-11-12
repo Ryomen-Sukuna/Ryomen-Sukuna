@@ -13,7 +13,7 @@ html2markdown==0.1.7
 httpcore==0.14.0
 httpx==0.17.1
 idna==3.3
-multidict==5.1.0
+multidict==5.2.0
 numpy==1.21.4
 outcome==1.1.0
 pycparser==2.21
