@@ -1,4 +1,4 @@
-aiofiles==0.6.0
+aiofiles==0.7.0
 async-generator==1.10
 async-timeout==3.0.1
 attrs==20.3.0
