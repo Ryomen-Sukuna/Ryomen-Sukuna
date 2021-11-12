@@ -23,7 +23,7 @@ sgmllib3k==1.0.0
 sniffio==1.2.0
 sortedcontainers==2.4.0
 soupsieve==2.2.1
-trio==0.18.0
+trio==0.19.0
 typing-extensions==3.7.4.3
 ujson==4.0.2
 yarl==1.6.3
