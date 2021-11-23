@@ -35,7 +35,7 @@
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/Ryomen-Sukuna)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna&show_icons=true&theme=radical)](https://github.com/Ryomen-Sukuna)
 
 ![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
@@ -69,9 +69,3 @@
  • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
 <!-- anilist_end-->
 </details>
-
-
-## **What languages you use and how much do you code?**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
