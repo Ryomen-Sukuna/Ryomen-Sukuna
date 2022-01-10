@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa ZERO desu ~ | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa ZERO desu ~ | <img src="https://komarev.com/ghpvc/?username=Ryomen-Sukuna&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
 - **🔥 [Pyrogram](https://pyrogram.org) & 🔥 [Telethon](https://github.com/LonamiWebs/Telethon) Lover 💖**
