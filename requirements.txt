@@ -8,7 +8,7 @@ cffi==1.15.0
 chardet==4.0.0
 dataclass-factory==2.13
 feedparser==6.0.8
-h11==0.12.0
+h11==0.13.0
 html2markdown==0.1.7
 httpcore==0.14.5
 httpx==0.22.0
