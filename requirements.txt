@@ -10,7 +10,7 @@ dataclass-factory==2.13
 feedparser==6.0.8
 h11==0.13.0
 html2markdown==0.1.7
-httpcore==0.14.5
+httpcore==0.14.7
 httpx==0.22.0
 idna==3.3
 multidict==6.0.2
