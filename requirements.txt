@@ -14,7 +14,7 @@ httpcore==0.14.7
 httpx==0.22.0
 idna==3.3
 multidict==6.0.2
-numpy==1.22.2
+numpy==1.22.3
 outcome==1.1.0
 pycparser==2.21
 pydub==0.25.1
