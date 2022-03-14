@@ -57,3 +57,8 @@
  • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
 <!-- anilist_end-->
 </details>
+ 
+ ## **What languages you use and how much do you code?**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
