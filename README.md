@@ -33,7 +33,10 @@
 ![Gmail Badge](https://img.shields.io/badge/-ryomensukuna83@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ryomensukuna83@gmail.com)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40RandomAnimeIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Random&longCache=true%22)](https://t.me/Grup_Anime_Random)
  
- ## **What languages you use and how much do you code?**
+##  🐙 **Github Stats**
+![Metrics](https://metrics.lecoq.io/Ryomen-Sukuna?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&activity=1&achievements=1&notable=1&discussions=1&gists=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=3&followup.sections=repositories&followup.indepth=true&people.limit=28&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&activity.limit=3&activity.load=300&activity.days=15&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=true&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FCalcutta)
+
+## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
