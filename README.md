@@ -18,16 +18,16 @@
 [![Go](https://img.shields.io/badge/-Go-%232c3e50?style=flat-square&logo=go)](https://golang.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)
 [![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=flat-square&logo=rust)](https://rust-lang.org)
-[![PHP](https://img.shields.io/badge/-php-%23777BB4?style=flat-square&logo=php)](https://www.php.net)
-[![Kotlin](https://img.shields.io/badge/-kotlin-%230095D5?style=flat-square&logo=kotlin)](https://kotlinlang.org)
+[![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat-square&logo=php)](https://www.php.net)
+[![Kotlin](https://img.shields.io/badge/-kotlin-%232c3e50?style=flat-square&logo=kotlin)](https://kotlinlang.org)
 
 **My Tech Stack I use Everyday:**
 
-[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/-pycharm-%23007ACC?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
+[![VS Code](https://img.shields.io/badge/-VSCode-%232c3e50?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/-pycharm-%232c3e50?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
 [![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=typescript)](https://termux.com)
-[![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=flat-square&logo=docker)](https://www.docker.com/)
 
 [![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=postgresql)](https://postgresql.org)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)
