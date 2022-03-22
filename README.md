@@ -23,12 +23,11 @@
 
 **My Tech Stack I use Everyday:**
 
-[![VS Code](https://img.shields.io/badge/-VSCode-%232c3e50?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/-pycharm-%232c3e50?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
-[![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)](https://git-scm.com)
-[![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=typescript)](https://termux.com)
-[![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=flat-square&logo=docker)](https://www.docker.com/)
-
+[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/-pycharm-%23007ACC?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
+[![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=termux)](https://termux.com)
+[![Docker](https://img.shields.io/badge/-Docker-%23007ACC?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=postgresql)](https://postgresql.org)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)
 
