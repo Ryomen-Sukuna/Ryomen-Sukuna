@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa ZERO desu ~ | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** I'm ZERO, and this is my profile readme ~ | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
 - **🔥 [Pyrogram](https://pyrogram.org) & 🔥 [Telethon](https://github.com/LonamiWebs/Telethon) Lover 💖**
@@ -11,10 +11,13 @@
 
 [![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
 [![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat-square&logo=php)](https://whatwg.org)
+[![Powershell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat-square&logo=powershell)](https://docs.microsoft.com/en-us/powershell)
 
 **Languages I am Learning :**
 
 [![Go](https://img.shields.io/badge/-Go-%232c3e50?style=flat-square&logo=go)](https://golang.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)
+[![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=flat-square&logo=rust)](https://rust-lang.org)
 
 **My Tech Stack I use Everyday:**
 
@@ -33,15 +36,6 @@
 ![Gmail Badge](https://img.shields.io/badge/-ryomensukuna83@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ryomensukuna83@gmail.com)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40RandomAnimeIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Random&longCache=true%22)](https://t.me/Grup_Anime_Random)
  
-##  🐙 **Github Stats**
-[![github stats](https://github-readme-stats.vercel.app/api?username=Ryomen-Sukuna&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Ryomen-Sukuna)
-
-![GitHub followers](https://img.shields.io/github/followers/Ryomen-Sukuna?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/Ryomen-Sukuna?affiliations=OWNER&color=aqua&style=for-the-badge)
-
-## 🌐 **Top Languages**
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryomen-Sukuna&show_icons=true&theme=radical&layout=compact)](https://github.com/Ryomen-Sukuna)
 
 ## **What languages you use and how much do you code?**
 
