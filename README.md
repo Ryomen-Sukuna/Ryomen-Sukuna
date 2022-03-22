@@ -18,6 +18,8 @@
 [![Go](https://img.shields.io/badge/-Go-%232c3e50?style=flat-square&logo=go)](https://golang.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)](https://nodejs.org)
 [![Rust](https://img.shields.io/badge/-Rust-%232c3e50?style=flat-square&logo=rust)](https://rust-lang.org)
+![PHP](https://img.shields.io/badge/-php-%23777BB4?style=flat-square&logo=php)](https://www.php.net)
+![Kotlin](https://img.shields.io/badge/-kotlin-%230095D5?style=flat-square&logo=kotlin)](https://kotlinlang.org)
 
 **My Tech Stack I use Everyday:**
 
