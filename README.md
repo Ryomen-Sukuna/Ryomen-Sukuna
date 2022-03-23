@@ -13,7 +13,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat&logo=php)](https://whatwg.org)
 [![Powershell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat&logo=powershell)](https://docs.microsoft.com/en-us/powershell)
 
-**Languages I am Learning :**
+**Language I'm learning, at least want to learn:**
 
 [![Golang](https://badges.aleen42.com/src/golang.svg)](https://golang.org)
 [![JavaScript](https://badges.aleen42.com/src/javascript.svg)](https://nodejs.org)
@@ -21,6 +21,7 @@
 [![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://www.php.net)
 [![Kotlin](https://badges.aleen42.com/src/kotlin.svg)](https://kotlinlang.org)
 [![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://www.typescriptlang.org)
+[![Java](https://badges.aleen42.com/src/java.svg)](https://www.java.com/en/)
 
 **My Tech Stack I use:**
 
@@ -45,7 +46,7 @@
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40RandomAnimeIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Random&longCache=true%22)](https://t.me/Grup_Anime_Random)
  
 
-## **What languages you use and how much do you code?**
+## **How much do you code?**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2023%20mins-blue)
