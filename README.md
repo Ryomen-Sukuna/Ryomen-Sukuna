@@ -10,26 +10,27 @@
 **Languages I currently know :**
 
 [![Python](https://badges.aleen42.com/src/python.svg)](https://python.org)
-[![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat-square&logo=php)](https://whatwg.org)
-[![Powershell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat-square&logo=powershell)](https://docs.microsoft.com/en-us/powershell)
+[![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat&logo=html)](https://whatwg.org)
+[![Powershell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat&logo=powershell)](https://docs.microsoft.com/en-us/powershell)
 
 **Languages I am Learning :**
 
 [![Golang](https://badges.aleen42.com/src/golang.svg)](https://golang.org)
 [![JavaScript](https://badges.aleen42.com/src/javascript.svg)](https://nodejs.org)
-[![Rust](https://badges.aleen42.com/src/rust.svg)](https://rust-lang.org)
-[![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat-square&logo=php)](https://www.php.net)
+[![Rust](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://rust-lang.org)
+[![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://www.php.net)
 [![Kotlin](https://badges.aleen42.com/src/kotlin.svg)](https://kotlinlang.org)
 
 **My Tech Stack I use Everyday:**
 
 [![Visual Studio Code](https://badges.aleen42.com/src/visual_studio_code.svg)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/-pycharm-%23007ACC?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com)
-[![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat-square&logo=termux)](https://termux.com)
+[![PyCharm](https://img.shields.io/badge/-pycharm-%23007ACC?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)](https://git-scm.com)
+[![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat&logo=termux)](https://termux.com)
 [![Docker](https://badges.aleen42.com/src/docker.svg)](https://www.docker.com/)
-[![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=postgresql)](https://postgresql.org)
-[![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)](https://heroku.com)
+[![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat&logo=postgresql)](https://postgresql.org)
+[![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=heroku)](https://heroku.com)
+[![Visual Studio](https://badges.aleen42.com/src/visual_studio.svg)](https://visualstudio.microsoft.com/)
 
 **Contact Me:**
 
