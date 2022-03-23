@@ -13,16 +13,16 @@
 [![HTML](https://img.shields.io/badge/-HTML-%232c3e50?style=flat&logo=php)](https://whatwg.org)
 [![Powershell](https://img.shields.io/badge/-PowerShell-%232c3e50?style=flat&logo=powershell)](https://docs.microsoft.com/en-us/powershell)
 
-**Language I'm learning, at least want to learn:**
+**Language and Framework I'm learning, at least want to learn:**
 
 [![Golang](https://badges.aleen42.com/src/golang.svg)](https://golang.org)
 [![JavaScript](https://badges.aleen42.com/src/javascript.svg)](https://nodejs.org)
 [![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://www.typescriptlang.org)
-
 [![Kotlin](https://badges.aleen42.com/src/kotlin.svg)](https://kotlinlang.org)
 [![Rust](https://img.shields.io/badge/-rust-%232c3e50?style=flat&logo=rust)](https://rust-lang.org)
 [![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://www.php.net)
 [![flutter](https://img.shields.io/badge/-flutter-%232c3e50?style=flat&logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/-dart-%232c3e50?style=flat&logo=dart)](https://flutter.dev/)
 [![Java](https://badges.aleen42.com/src/java.svg)](https://www.java.com/en/)
 
 **My Tech Stack I use:**
