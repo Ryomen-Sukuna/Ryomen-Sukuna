@@ -17,9 +17,10 @@
 
 [![Golang](https://badges.aleen42.com/src/golang.svg)](https://golang.org)
 [![JavaScript](https://badges.aleen42.com/src/javascript.svg)](https://nodejs.org)
-[![Rust](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://rust-lang.org)
+[![Rust](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=rust)](https://rust-lang.org)
 [![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://www.php.net)
 [![Kotlin](https://badges.aleen42.com/src/kotlin.svg)](https://kotlinlang.org)
+[![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://www.typescriptlang.org)
 
 **My Tech Stack I use Everyday:**
 
@@ -35,7 +36,7 @@
 **Contact Me:**
 
 [![ZERO • アクバル.](https://badges.aleen42.com/src/telegram.svg)](https://t.me/Anomaliii)
-[![Gmail Badge](https://img.shields.io/badge/-ryomensukuna83@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://ryomensukuna83@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ryomensukuna83@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white)](https://ryomensukuna83@gmail.com)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40RandomAnimeIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Random&longCache=true%22)](https://t.me/Grup_Anime_Random)
  
 
