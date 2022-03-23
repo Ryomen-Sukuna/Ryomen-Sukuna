@@ -22,16 +22,21 @@
 [![Kotlin](https://badges.aleen42.com/src/kotlin.svg)](https://kotlinlang.org)
 [![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://www.typescriptlang.org)
 
-**My Tech Stack I use Everyday:**
+**My Tech Stack I use:**
 
 [![Visual Studio Code](https://badges.aleen42.com/src/visual_studio_code.svg)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/-pycharm-%23007ACC?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)](https://git-scm.com)
-[![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat&logo=termux)](https://termux.com)
+[![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat&logo=typescript)](https://termux.com)
 [![Docker](https://badges.aleen42.com/src/docker.svg)](https://www.docker.com/)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat&logo=postgresql)](https://postgresql.org)
 [![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat&logo=heroku)](https://heroku.com)
 [![Visual Studio](https://badges.aleen42.com/src/visual_studio.svg)](https://visualstudio.microsoft.com/)
+
+**Hobbies :**
+
+[![Spotify](https://badges.aleen42.com/src/spotify.svg)](https://spotify.com)
+[![PhotoShop](https://badges.aleen42.com/src/photoshop.svg)](https://www.adobe.com/products/photoshop.html)
 
 **Contact Me:**
 
