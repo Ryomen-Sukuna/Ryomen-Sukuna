@@ -17,10 +17,10 @@
 
 [![Golang](https://badges.aleen42.com/src/golang.svg)](https://golang.org)
 [![JavaScript](https://badges.aleen42.com/src/javascript.svg)](https://nodejs.org)
-[![Rust](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=rust)](https://rust-lang.org)
-[![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://www.php.net)
-[![Kotlin](https://badges.aleen42.com/src/kotlin.svg)](https://kotlinlang.org)
 [![TypeScript](https://badges.aleen42.com/src/typescript.svg)](https://www.typescriptlang.org)
+[![Kotlin](https://badges.aleen42.com/src/kotlin.svg)](https://kotlinlang.org)
+[![Rust](https://img.shields.io/badge/-rust-%232c3e50?style=flat&logo=rust)](https://rust-lang.org)
+[![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://www.php.net)
 [![Java](https://badges.aleen42.com/src/java.svg)](https://www.java.com/en/)
 
 **My Tech Stack I use:**
