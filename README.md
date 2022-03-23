@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">** I'm ZERO • アクバル . | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">** I'm ZERO • アクバル. | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
 - **🔥 [Pyrogram](https://pyrogram.org) & 🔥 [Telethon](https://github.com/LonamiWebs/Telethon) Lover 💖**
@@ -33,7 +33,7 @@
 
 **Contact Me:**
 
-[![Telegram Badge](https://img.shields.io/badge/-ZERO • アクバル .-1ca0f1?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Anomaliii)
+[![Telegram Badge](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40ZERO • アクバル.&labelColor=1ca0f1?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Anomaliii)
 [![Gmail Badge](https://img.shields.io/badge/-ryomensukuna83@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://ryomensukuna83@gmail.com)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40RandomAnimeIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DGrup_Anime_Random&longCache=true%22)](https://t.me/Grup_Anime_Random)
  
