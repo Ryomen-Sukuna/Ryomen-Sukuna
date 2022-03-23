@@ -21,14 +21,14 @@
 [![Kotlin](https://badges.aleen42.com/src/kotlin.svg)](https://kotlinlang.org)
 [![Rust](https://img.shields.io/badge/-rust-%232c3e50?style=flat&logo=rust)](https://rust-lang.org)
 [![PHP](https://img.shields.io/badge/-php-%232c3e50?style=flat&logo=php)](https://www.php.net)
-[![flutter](https://img.shields.io/badge/-flutter-%232c3e50?style=flat&logo=flutter)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/-dart-%232c3e50?style=flat&logo=dart)](https://flutter.dev/)
-[![Java](https://badges.aleen42.com/src/java.svg)](https://www.java.com/en/)
+[![Flutter](https://img.shields.io/badge/-flutter-%232c3e50?style=flat&logo=flutter)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/-dart-%232c3e50?style=flat&logo=dart)](https://dart.dev)
+[![Java](https://badges.aleen42.com/src/java.svg)](https://www.java.com/en)
 
 **My Tech Stack I use:**
 
-[![Visual Studio Code](https://badges.aleen42.com/src/visual_studio_code.svg)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/-pycharm-%23007ACC?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Visual Studio Code](https://badges.aleen42.com/src/visual_studio_code.svg)](https://code.visualstudio.com)
+[![PyCharm](https://img.shields.io/badge/-pycharm-%23007ACC?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)](https://git-scm.com)
 [![Termux](https://img.shields.io/badge/-Termux-%232c3e50?style=flat&logo=typescript)](https://termux.com)
 [![Docker](https://badges.aleen42.com/src/docker.svg)](https://www.docker.com/)
