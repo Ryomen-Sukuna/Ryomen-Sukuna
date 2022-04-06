@@ -1,7 +1,7 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">** I'm ZERO • アクバル. | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
 
 - **🐋 [Heroku](https://heroku.com) Power User 💪**
-- **🔥 [Pyrogram](https://pyrogram.org) & 🔥 [Telethon](https://github.com/LonamiWebs/Telethon) Lover 💖**
+- **🔥 [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org)**
 - **My Everyday usage is based on: `.py`**
 
