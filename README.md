@@ -52,7 +52,7 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--20%20Thousand%20lines%20of%20code-blue)
 
@@ -73,8 +73,8 @@
 ```text
 🌞 Morning    95 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
 🌆 Daytime    212 commits    ██████████░░░░░░░░░░░░░░░   41.09% 
-🌃 Evening    108 commits    █████░░░░░░░░░░░░░░░░░░░░   20.93% 
-🌙 Night      101 commits    █████░░░░░░░░░░░░░░░░░░░░   19.57%
+🌃 Evening    107 commits    █████░░░░░░░░░░░░░░░░░░░░   20.74% 
+🌙 Night      102 commits    █████░░░░░░░░░░░░░░░░░░░░   19.77%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -128,5 +128,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/04/2022 21:40:07 UTC
+ Last Updated on 11/04/2022 22:13:00 UTC
 <!--END_SECTION:waka-->
