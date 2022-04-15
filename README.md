@@ -60,7 +60,7 @@
 
 > 🏆 2,421 Contributions in the Year 2022
  > 
-> 📦 100.5 kB Used in GitHub's Storage 
+> 📦 100.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,5 +128,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2022 18:52:51 UTC
+ Last Updated on 15/04/2022 21:00:51 UTC
 <!--END_SECTION:waka-->
