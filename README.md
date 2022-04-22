@@ -64,9 +64,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 202 Public Repositories 
+> 📜 203 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -128,5 +128,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 13:24:16 UTC
+ Last Updated on 22/04/2022 13:54:39 UTC
 <!--END_SECTION:waka-->
