@@ -97,14 +97,13 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-requirements.txt         2 mins              ██████████████████████░░░   87.91% 
-Text                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharmCore              2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -124,5 +123,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/05/2022 17:05:35 UTC
+ Last Updated on 15/05/2022 17:30:32 UTC
 <!--END_SECTION:waka-->
