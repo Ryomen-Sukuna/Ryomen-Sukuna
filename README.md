@@ -52,7 +52,7 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--48%20Thousand%20lines%20of%20code-blue)
 
@@ -97,13 +97,14 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              ██████████████████░░░░░░░   72.8% 
+INI                      1 min               ██████░░░░░░░░░░░░░░░░░░░   27.2%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharmCore              5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -123,5 +124,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 17:06:09 UTC
+ Last Updated on 16/05/2022 17:32:49 UTC
 <!--END_SECTION:waka-->
