@@ -52,13 +52,13 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--49%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,644 Contributions in the Year 2022
+> 🏆 2,646 Contributions in the Year 2022
  > 
 > 📦 91.2 kB Used in GitHub's Storage 
  > 
@@ -97,17 +97,17 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   53 mins             ████████████████░░░░░░░░░   65.77% 
-Text                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.4% 
-requirements.txt         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
-GitIgnore file           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.05% 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+Python                   1 hr 25 mins        ██████████████████░░░░░░░   75.45% 
+Text                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+requirements.txt         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.36% 
+GitIgnore file           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
 
 🔥 Editors: 
-PyCharmCore              1 hr 20 mins        █████████████████████████   100.0%
+PyCharmCore              1 hr 52 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.0%
+Windows                  1 hr 52 mins        █████████████████████████   100.0%
 
 ```
 
@@ -127,5 +127,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/05/2022 17:19:01 UTC
+ Last Updated on 20/05/2022 17:44:11 UTC
 <!--END_SECTION:waka-->
