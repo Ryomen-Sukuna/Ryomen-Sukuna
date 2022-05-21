@@ -52,7 +52,7 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--49%20Thousand%20lines%20of%20code-blue)
 
@@ -104,7 +104,8 @@ GitIgnore file           4 mins              █░░░░░░░░░░�
 INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
 
 🔥 Editors: 
-PyCharmCore              1 hr 52 mins        █████████████████████████   100.0%
+PyCharmCore              1 hr 52 mins        █████████████████████████   100.0% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
 Windows                  1 hr 52 mins        █████████████████████████   100.0%
@@ -127,5 +128,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/05/2022 17:07:47 UTC
+ Last Updated on 21/05/2022 17:33:03 UTC
 <!--END_SECTION:waka-->
