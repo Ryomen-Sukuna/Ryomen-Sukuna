@@ -52,19 +52,19 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--49%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,658 Contributions in the Year 2022
+> 🏆 2,660 Contributions in the Year 2022
  > 
-> 📦 90.9 kB Used in GitHub's Storage 
+> 📦 90.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 212 Public Repositories 
+> 📜 213 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
@@ -97,18 +97,18 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   8 hrs 4 mins        ██████████████████████░░░   90.79% 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-INI                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78% 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
-requirements.txt         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
+Python                   17 hrs 3 mins       ███████████████████████░░   94.6% 
+Text                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+INI                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
+GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
+requirements.txt         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 🔥 Editors: 
-PyCharmCore              4 hrs 41 mins       █████████████░░░░░░░░░░░░   52.84% 
-VS Code                  4 hrs 11 mins       ███████████░░░░░░░░░░░░░░   47.16%
+PyCharmCore              10 hrs 29 mins      ██████████████░░░░░░░░░░░   58.16% 
+VS Code                  7 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.84%
 
 💻 Operating System: 
-Windows                  8 hrs 53 mins       █████████████████████████   100.0%
+Windows                  18 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
@@ -128,5 +128,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/05/2022 17:09:18 UTC
+ Last Updated on 24/05/2022 17:41:36 UTC
 <!--END_SECTION:waka-->
