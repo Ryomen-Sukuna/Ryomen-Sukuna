@@ -52,13 +52,13 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--48%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--47%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,679 Contributions in the Year 2022
+> 🏆 2,682 Contributions in the Year 2022
  > 
 > 📦 91.1 kB Used in GitHub's Storage 
  > 
@@ -72,8 +72,8 @@
 
 ```text
 🌞 Morning    41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
-🌆 Daytime    251 commits    ████████████░░░░░░░░░░░░░   48.27% 
-🌃 Evening    114 commits    █████░░░░░░░░░░░░░░░░░░░░   21.92% 
+🌆 Daytime    252 commits    ████████████░░░░░░░░░░░░░   48.46% 
+🌃 Evening    113 commits    █████░░░░░░░░░░░░░░░░░░░░   21.73% 
 🌙 Night      114 commits    █████░░░░░░░░░░░░░░░░░░░░   21.92%
 
 ```
@@ -81,10 +81,10 @@
 
 ```text
 Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Tuesday      149 commits    ███████░░░░░░░░░░░░░░░░░░   28.65% 
+Tuesday      148 commits    ███████░░░░░░░░░░░░░░░░░░   28.46% 
 Wednesday    101 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
 Thursday     97 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.65% 
-Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
+Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
 Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
 Sunday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85%
 
@@ -128,5 +128,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/05/2022 09:55:19 UTC
+ Last Updated on 27/05/2022 10:23:09 UTC
 <!--END_SECTION:waka-->
