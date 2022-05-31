@@ -60,7 +60,7 @@
 
 > 🏆 2,721 Contributions in the Year 2022
  > 
-> 📦 94.2 kB Used in GitHub's Storage 
+> 📦 94.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -129,5 +129,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/05/2022 20:47:26 UTC
+ Last Updated on 31/05/2022 21:00:30 UTC
 <!--END_SECTION:waka-->
