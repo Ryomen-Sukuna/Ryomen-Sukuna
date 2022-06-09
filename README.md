@@ -41,7 +41,7 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--25%20Thousand%20lines%20of%20code-blue)
 
@@ -102,11 +102,11 @@ Windows                  7 hrs 8 mins        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   34 repos            ███████████████████░░░░░░   75.56% 
-Go                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+Python                   34 repos            ██████████████████░░░░░░░   73.91% 
+Go                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
 
 ```
 
@@ -116,5 +116,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 22:01:30 UTC
+ Last Updated on 09/06/2022 23:01:40 UTC
 <!--END_SECTION:waka-->
