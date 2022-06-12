@@ -45,19 +45,18 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--25%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 2,832 Contributions in the Year 2022
+```text
+🏆 2,832 contributions in 2022
+
+📦 92.3 kB used in GitHub's storage 
+
+📜 221 Public Repositories 
+
+🔑 19 Private Repositories  
  > 
-> 📦 92.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 221 Public Repositories 
- > 
-> 🔑 19 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.32% 
@@ -66,7 +65,7 @@
 🌙 Night      118 commits    █████░░░░░░░░░░░░░░░░░░░░   22.91%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm most productive on Tuesday** 
 
 ```text
 Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
@@ -80,7 +79,7 @@ Sunday       34 commits     █░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -99,7 +98,7 @@ Windows                  12 hrs 34 mins      ███████████�
 
 ```
 
-**I Mostly Code in Python** 
+**💻 I mostly code in Python** 
 
 ```text
 Python                   34 repos            ██████████████████░░░░░░░   73.91% 
@@ -116,5 +115,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:16:48 UTC
+ Last Updated on 12/06/2022 07:54:09 UTC
 <!--END_SECTION:waka-->
