@@ -45,7 +45,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--25%20Thousand%20lines%20of%20code-blue)
 
-**📊 Global GitHub data** 
+**📊 My GitHub data** 
 
 ```text
 🏆 2,832 contributions in 2022
@@ -115,5 +115,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:54:09 UTC
+ Last Updated on 12/06/2022 08:06:56 UTC
 <!--END_SECTION:waka-->
