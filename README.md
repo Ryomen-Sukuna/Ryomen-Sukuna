@@ -41,7 +41,7 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--22%20Thousand%20lines%20of%20code-blue)
 
@@ -111,5 +111,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2022 17:06:15 UTC
+ Last Updated on 24/06/2022 17:25:36 UTC
 <!--END_SECTION:waka-->
