@@ -41,13 +41,13 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--21%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,896 Contributions in the Year 2022
+> 🏆 2,895 Contributions in the Year 2022
  > 
 > 📦 93.4 kB Used in GitHub's Storage 
  > 
@@ -111,5 +111,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/06/2022 16:35:53 UTC
+ Last Updated on 25/06/2022 17:07:42 UTC
 <!--END_SECTION:waka-->
