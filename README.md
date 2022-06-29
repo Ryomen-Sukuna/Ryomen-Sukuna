@@ -53,7 +53,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 221 Public Repositories 
+> 📜 222 Public Repositories 
  > 
 > 🔑 19 Private Repositories  
  > 
@@ -111,5 +111,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2022 14:10:36 UTC
+ Last Updated on 29/06/2022 14:39:28 UTC
 <!--END_SECTION:waka-->
