@@ -41,7 +41,7 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--20%20Thousand%20lines%20of%20code-blue)
 
@@ -84,13 +84,17 @@ Sunday       35 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       15 mins             █████████████████████████   100.0%
+Python                   2 hrs 26 mins       ██████████████████████░░░   88.48% 
+Go                       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
+Windows                  2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,5 +115,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2022 17:04:23 UTC
+ Last Updated on 09/07/2022 17:29:19 UTC
 <!--END_SECTION:waka-->
