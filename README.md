@@ -43,7 +43,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--24%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--23%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,12 +70,12 @@
 
 ```text
 Monday       95 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-Tuesday      156 commits    ██████░░░░░░░░░░░░░░░░░░░   26.22% 
+Tuesday      155 commits    ██████░░░░░░░░░░░░░░░░░░░   26.05% 
 Wednesday    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
 Thursday     98 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
 Friday       37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
 Saturday     38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
-Sunday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.41%
+Sunday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.58%
 
 ```
 
@@ -111,5 +111,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 16:35:51 UTC
+ Last Updated on 24/07/2022 17:44:28 UTC
 <!--END_SECTION:waka-->
