@@ -57,43 +57,6 @@
  > 
 > 🔑 23 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
-🌆 Daytime    267 commits    █████████░░░░░░░░░░░░░░░░   38.81% 
-🌃 Evening    177 commits    ██████░░░░░░░░░░░░░░░░░░░   25.73% 
-🌙 Night      192 commits    ███████░░░░░░░░░░░░░░░░░░   27.91%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.7% 
-Tuesday      171 commits    ██████░░░░░░░░░░░░░░░░░░░   24.85% 
-Wednesday    143 commits    █████░░░░░░░░░░░░░░░░░░░░   20.78% 
-Thursday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
-Friday       48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
-Sunday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.58%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,5 +74,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 11:01:32 UTC
+ Last Updated on 03/09/2022 12:03:31 UTC
 <!--END_SECTION:waka-->
