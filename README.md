@@ -82,14 +82,13 @@ Sunday                   54480 commits       █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TOML                     11 mins             █████████████████████████   99.13 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -109,5 +108,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2023 14:33:25 UTC
+ Last Updated on 26/08/2023 23:17:10 UTC
 <!--END_SECTION:waka-->
