@@ -43,7 +43,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,6 +57,40 @@
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                43805 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+🌆 Daytime                83509 commits       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+🌃 Evening                74554 commits       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+🌙 Night                  87725 commits       ████████░░░░░░░░░░░░░░░░░   30.29 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   40732 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Tuesday                  39299 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Wednesday                37943 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 37301 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Friday                   35290 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Saturday                 46870 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Sunday                   52158 commits       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -74,5 +108,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2024 17:01:01 UTC
+ Last Updated on 03/01/2024 18:05:03 UTC
 <!--END_SECTION:waka-->
