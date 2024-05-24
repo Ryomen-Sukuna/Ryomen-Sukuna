@@ -41,13 +41,15 @@
 ## **How much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-910%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 145.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,17 +82,17 @@ Sunday                   54502 commits       █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   68 hrs              ████████████████████████░   97.90 % 
-TOML                     1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Python                   64 hrs 1 min        ████████████████████████░   97.55 % 
+TOML                     1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+INI                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  69 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  65 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  69 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  65 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,5 +112,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2024 17:33:19 UTC
+ Last Updated on 24/05/2024 18:33:27 UTC
 <!--END_SECTION:waka-->
