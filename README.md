@@ -1,4 +1,4 @@
-# **Hello there**, I'm ZERO • アクバル. | [![Profile views](https://gpvc.arturio.dev/Ryomen-Sukuna)](https://github.com/Ryomen-Sukuna)
+# **Hello there**, I'm ZERO • アクバル.
 
 ## 👦 **About me**:
 
