@@ -18,4 +18,3 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
-          COMMIT_BY_ME: "True"
