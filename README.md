@@ -51,7 +51,7 @@
  > 
 > 🏆 24 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 225 Public Repositories 
  > 
@@ -112,5 +112,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2024 07:27:00 UTC
+ Last Updated on 07/06/2024 08:33:38 UTC
 <!--END_SECTION:waka-->
