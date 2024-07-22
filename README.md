@@ -49,8 +49,6 @@
 
 > 📦 156.7 kB Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 225 Public Repositories 
@@ -108,5 +106,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ryomen-Sukuna/Ryomen-Sukuna/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2024 04:59:46 UTC
+ Last Updated on 22/07/2024 06:05:47 UTC
 <!--END_SECTION:waka-->
